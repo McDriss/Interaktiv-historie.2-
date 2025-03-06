@@ -25,7 +25,7 @@ let CPHsong;
 
 function preload() {
   københavnBillede = loadImage('pictures/Brand.png');
-  GAMEOVERbillede = loadImage('pictures/GAMEOVER.png');
+  GAMEOVERbillede = loadImage('pictures/GameOver.png');
   RådhusBillede = loadImage('pictures/Rådhus.png');
   CPHsong = loadSound('music/København.mp3');
 }
