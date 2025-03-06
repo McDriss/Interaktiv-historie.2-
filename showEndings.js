@@ -21,7 +21,7 @@ function showKapitel8() {
     textSize(20); // Adjust the text size as needed
 
     // First text
-    let firstText = "Hårde tider, hårde valg. Du har valgt at forlade den lillepige. I et forsøg på at finde vej frem til kontrolpointent i den massive menneskemængde, snubler du og du er ikke i tvivl om at du ikke kommer op igen. Af Københavns gader er du kommet, og i Københavns gader skal du blive.";
+    let firstText = "Hårde tider, hårde valg. Du har valgt at forlade den lillepige. I et forsøg på at finde vej frem til kontrolpointent i den massive menneskemængde, snubler du. Du er ikke i tvivl om at du ikke kommer op igen... Af Københavns gader er du kommet, og af Københavns gader skal du blive.";
     text(firstText, rectX + 20, rectY + 20, rectWidth - 40);
 
     // Calculate the height of the first text
@@ -66,7 +66,7 @@ function showKapitelSlut1() {
     textSize(20); // Adjust the text size as needed
 
     // First text
-    let firstText = "På vejen mod kontrolpunktet, er pigen blevet i bedre humør, og viser dig stolt sin bamse frem. En kobamse ved navn Ninus. Ninus og den lille piges glade latter overbeviser dig om at der er håb forude. Men hvad der ventede jer ved kontrolpointen, kunne ingen forberede sig på";
+    let firstText = "På vejen mod kontrolpunktet, er pigen blevet i bedre humør, og viser dig stolt sin bamse frem. En kobamse ved navn Ninus. Sikke et besynderligt navn til en kobamse tænker du. Men i et øjeblik er dine tanker gledet væk fra angsten og frygten for hvad der venter forude. Den lille piges glade latter overbeviser dig om at der er håb. Men hvad der venter jer ved kontrolpointen, kunne intet menneske forberede sig på";
     text(firstText, rectX + 20, rectY + 20, rectWidth - 40);
 
     // Calculate the height of the first text
@@ -110,7 +110,7 @@ function showKapitelSlut2() {
     textSize(20); // Adjust the text size as needed
 
     // First text
-    let firstText = "Forbinding, dåsemad og sågar Airpods finder du inde i butikken, som bliver plyndret... Imens du forsøgte at connecte Airpodse til din telefon, blev du overfaldet af en gruppe unge mænd, som tog alt hvad du havde, inklusiv dit liv!";
+    let firstText = "Forbinding, dåsemad og sågar Airpods finder du inde i butikken, som bliver plyndret... Imens du forsøger at connecte Airpodsene til din telefon, bliver du overfaldet af en gruppe unge mænd, som tager alt hvad du har, inklusiv dit liv!";
     text(firstText, rectX + 20, rectY + 20, rectWidth - 40);
 
     // Calculate the height of the first text

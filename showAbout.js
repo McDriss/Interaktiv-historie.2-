@@ -29,7 +29,7 @@ function showKapitelAbout() {
     let firstTextHeight = textAscent() + textDescent();
 
     // Second text
-    let secondText = "Året er 2030, og en katastrofal begivenhed har ramt København. En ukendt virus spreder sig hurtigt, og myndighederne har besluttet at evakuere byen for at forhindre yderligere spredning. Du indtager rollen som en almindelig borger, der skal forsøge at navigere gennem panik og kaos i København, og sammentidig forsøge at træffe svære valg for at overleve og beskytte dine kære.";
+    let secondText = "Året er 2030, og en katastrofal begivenhed har ramt København. En ukendt virus spreder sig hurtigt, og myndighederne har besluttet at evakuere byen for at forhindre yderligere spredning. Du indtager rollen som en almindelig borger, der skal forsøge at navigere gennem panik og kaos i København, og sammentidig forsøge at træffe svære valg for at overleve.";
     text(secondText, rectX + 20, rectY + 20 + firstTextHeight + 10, rectWidth - 40, rectHeight - 40); // Add 10 pixels of padding between the texts
 
     button3.show();

@@ -83,7 +83,6 @@ function setup() {
 }
 
 function draw() {
-  console.log(storyState);
   if (storyState == "slide1") {
     showKapitel1();
   } else if (storyState == "slide2") {
